@@ -23,7 +23,7 @@ const C = {
         "<strong>A nossa história.</strong>",
         "Aquela que começou de um jeito simples, meio desajeitado, cheia de indiretas, vergonha e, acima de tudo, sentimentos que talvez a gente ainda nem soubesse explicar."
       ],
-      photo:"images/introdução.png"
+      photo: imagens/Introdução.png
     },
     {
       type:"text", eyebrow:"📚 2022 — Quando tudo começou", title:"",
